@@ -13,7 +13,7 @@ gh repo clone Guilherme-full/Projeto-PetShop
 
 ## Visualizar Projeto
 
-## *[Projeto PetShop](https://guilherme-full.github.io/Projeto-Flex/projeto.html)
+## *[Projeto PetShop](https://guilherme-full.github.io/Projeto-PetShop/pagina.html)
 
 
 
