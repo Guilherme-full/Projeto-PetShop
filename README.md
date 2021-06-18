@@ -2,7 +2,7 @@
 
 ## Download do Projeto
 ```
-gh repo clone Guilherme-full/Projeto-Flex
+gh repo clone Guilherme-full/Projeto-PetShop
 ```
 
 |          | Linux | macOS | Windows |
@@ -13,7 +13,7 @@ gh repo clone Guilherme-full/Projeto-Flex
 
 ## Visualizar Projeto
 
-## *[Projeto Flex](https://guilherme-full.github.io/Projeto-Flex/projeto.html)
+## *[Projeto PetShop](https://guilherme-full.github.io/Projeto-Flex/projeto.html)
 
 
 
