@@ -1,8 +1,8 @@
 # Projeto PetShop (Guilherme Xavier Souza)
 
-## Download do Projeto
+## Clonar Repositório
 ```
-gh repo clone Guilherme-full/Projeto-PetShop
+git clone https://github.com/Guilherme-full/Projeto-PetShop.git
 ```
 
 |          | Linux | macOS | Windows |
